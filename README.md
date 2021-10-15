@@ -3,7 +3,7 @@
 
 Export path:
 
-export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:/home/workspace/Project1/build;
+export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:/home/workspace/Project1/build &nbsp;
 export GAZEBO_MODEL_PATH=/home/workspace/Project1/model:$GAZEBO_MODEL_PATH 
 
 To run:
